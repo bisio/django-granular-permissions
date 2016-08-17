@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: django-granular-permissions
+Version: 0.1
+Summary: Django granular (row-level) permissions that inject themselves in a non-invasive fashion (without modifying the Django code)
+Home-page: http://code.google.com/p/django-granular-permissions/
+Author: Bartosz Ptaszynski
+Author-email: yazzgoth@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
